@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arru93
+- 👋 Hi, I’m Arun sharma
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning data science.
 - 💞️ I’m looking to collaborate on analysi
